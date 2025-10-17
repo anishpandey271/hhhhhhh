@@ -1,0 +1,277 @@
+@media (max-width:2560px) {
+
+  body{overflow-x: hidden;
+
+  }
+  .a{margin-right:250px;
+    background-color: rgb(248 249 250);
+    width: 1950px;
+  padding:45px;}
+.a  {margin-top: -30px;
+
+  }
+  
+   }
+  .b{margin-left: 920px;
+    margin-top: -152px;
+   font-size: 25px;
+
+  }
+  .b li{ display: inline-block;
+   margin-right: 60px;
+   padding: 28px;
+   
+  }
+   
+      .navbar-brand{margin-left: 60px;
+
+      }
+      .nav-item2 {margin-left: -20px;
+
+      }
+      .nav-link {margin-right: -80px;
+        
+
+      }
+      .b :hover{
+        color:orangered;
+      }
+      
+      .nav-link {color: black;
+        
+        margin-left: -80px;
+        font-size: 21px;
+
+      }
+      
+      .nav-link2 {color: black;
+        font-size: 21px;
+      }
+       
+      
+      .navbar-brand {color: black;
+        margin-left:  30px;
+
+      }
+    .z {margin-top: 70px;
+       margin-left: 850px;
+       
+    }
+    .z img{margin-left: -855px;
+      width: 2100px;
+      position:absolute;
+      height: 400px;
+           margin-top: -125px;
+           z-index: -1;
+           filter: blur(6px);
+    }
+    .z h2{margin-top: 50px;
+             margin-left: -250px;
+             color: antiquewhite;
+    }
+
+    
+        .nn  {margin-top: 200px;
+          
+              
+}
+.nn .card-deck{margin-left: -160px;
+                
+}
+
+    .nn img  {
+      width: 90%;
+      border-radius: 35px;
+      padding: 20px;
+      margin-left: 25px;}
+
+       .nn .card :hover img{
+        border-radius: 25px;
+        transition:  transform 0.3s ease ;
+        transform: scale(1.1) ;
+        transform-origin: center;
+         border-radius: 50px;
+       }
+
+
+
+      .nn .card{background-color:#027a9e;
+        width: 1200px;
+        height: min-content;
+      padding: 20px;
+      margin-left: 100px;
+      border-radius: 50px;
+
+      }
+    .nn  {margin-left: 70px;
+
+      }
+      .nav-link {color: black;
+        
+        margin-left: -80px;
+        font-size: 21px;
+
+      }
+      
+      .nav-link2 {color: black;
+        font-size: 21px;
+
+        
+      }
+       
+      
+      .navbar-brand {color: black;
+        margin-left:  30px;
+          
+      }
+      .nn h4{margin-left: 170px;
+
+      }
+
+      .nn h5{margin-left: 140px;
+
+      }
+      .nn p{margin-left: 150px;
+        color: bisque;
+
+      }
+      .nn h6{margin-left: 120px;
+        font-size: large;
+
+      }
+
+
+      .mainform{padding-top: 240px;
+                 margin-bottom: -120px;
+}
+
+.form1 {font-family:Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: -140px;
+  height: 900px;
+  width: 620px;
+  background-color: #d0a410;
+  border-radius: 35px;
+                  }        
+         
+.content{font-family:Verdana, Geneva, Tahoma, sans-serif;
+  margin-left:50px;
+  font-size: x-large;
+  
+  
+}
+        
+ .form1 h4 {margin-left: 50px;
+              font-family:Verdana, Geneva, Tahoma, sans-serif;
+ } 
+  .form1 h1  {margin-left: 42px;
+
+ } .form1 p {margin-left: 50px;
+               font-family:Verdana, Geneva, Tahoma, sans-serif;
+ } 
+
+     
+      
+    footer {  
+      background-color: black;
+      color: white;
+      width: 1950px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        margin-left: 0px;
+        padding: 70px  0px;
+        border-top:1px solid #00458d;
+        margin-top: 70px;
+            
+    }
+
+    .copyrights {
+      
+        background:black;
+
+        width: 1930px;
+        margin-left: px;
+        padding: 10px 0px;
+        margin-bottom: -48px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    .copyrights p {font-size: medium;
+      padding-right: -50px;
+      white-space:nowrap;
+        margin-bottom: 10px;
+        color: gray;
+        text-align: center;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+  
+  
+
+
+     .about{margin-top: 10px;
+      margin-left: -170px;
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+     }
+
+  .daily{margin-left: 18px;
+    color: gray;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;}
+  .daily h2{color: white;
+
+  }
+  
+  .about img{margin-top: -50px;
+
+  }
+  .about a{color:gray;
+            text-decoration: none;
+  }
+
+    .link a{color: gray;
+          
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+           text-decoration: none;
+        
+     }
+     
+    .link a:hover{color: orange;
+
+    }
+     
+    .copyrights strong{color: white;
+
+    } 
+    
+     .location  {color: gray;
+             
+
+     } 
+     .location h5{margin-left: 20px;
+                 margin-top: -40px;
+     }
+    
+      .mail{
+        margin-left: -8px;
+         margin-top: -5px;
+      }
+      
+      
+     .nat h6:hover{color: orange;
+
+     }
+     .nat{margin-left: 29px;
+
+     } 
+     .map{font-family:Verdana, Geneva, Tahoma, sans-serif;
+         padding: 10px;
+         margin-right: -260px;
+     }  
+     .map p{text-align: center;
+            font-size:xx-large;
+     }
+ .map h1{text-align: center;
+        
+ }
+ .map iframe{padding: 40px;
+
+ }
